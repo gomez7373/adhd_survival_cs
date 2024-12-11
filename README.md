@@ -5,7 +5,7 @@ tips and tricks
 
 ## Propósito
 
-Este script tiene como propósito educativo ayudar a los estudiantes a economizar tiempo mientras trabajan en sus proyectos de programación, en este caso, proyectos de C#. Automatiza tareas repetitivas como la creación, edición, compilación, ejecución, limpieza de archivos temporales y la gestión del repositorio en GitHub. Al hacer esto, los estudiantes pueden concentrarse en desarrollar el contenido del proyecto sin preocuparse por los detalles técnicos de configuración.
+Este script tiene como propósito educativo ayudar a los estudiantes a economizar tiempo mientras trabajan en sus proyectos de programación, en este caso, proyectos de C#. Automatiza tareas repetitivas como la creación, edición, compilación, ejecución, limpieza de archivos temporales y la gestión del repositorio en GitHub. Al hacer esto, los estudiantes pueden concentrarse en desarrollar el contenido del proyecto sin preocuparse por los detalles técnicos de configuración.Recuerda ejecutar este código en el directorio donde se crearán las carpetas del proyecto, y no dentro de cada carpeta del proyecto.
 
 ---
 
